@@ -1,5 +1,5 @@
 # Set the base image
-FROM mono:5.8.0.108-slim
+FROM mono:5.8.0.108
 # Dockerfile author / maintainer 
 MAINTAINER Vadym Kurachevskyi <vadim@hmvs.org> 
 
